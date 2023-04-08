@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #faeddf;
+    padding: 10px;
+}
+
+.container {
+    font-family: 'Playfair Display', serif;
+    background-color: #faeddf;
+    padding: 15px;
+}
+
+nav {
+    background: #f7a29e;
+    margin: 25px, 25px;
+}
+
+section {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 55px;
+    margin: 0 40px;
+    color: #3b3f49;
+}
+
+p {
+  font-size: 35px;
+  text-align: justify;
+  justify-content: center;
+  color: #3b3f49; 
+}
+
+h3 {
+    font-size: 25px;
+    line-height: 55px;
+    margin-top: 37px;
+    color: #3b3f49;
+}
+
+li {
+    text-align: justify;
+    line-height: 25px;
+    font-size: 22px;
+}
+
+footer {
+    background: #f7a29e;
+    padding: 35px;
+    text-align: right;
+    color: #3b3f49;
+}
